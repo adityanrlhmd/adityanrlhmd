@@ -1,6 +1,6 @@
 # Hi, I'm Aditya Nurul Hamda 👋
 
-I'm Aditya Nurul Hamda, passionate about crafting seamless web and app experiences. With a knack for user-friendly interfaces, I excel in collaborative teams. I also stay updated with industry trends. Let's connect and innovate together!
+Passionate about crafting seamless web and app experiences. With a knack for user-friendly interfaces, I excel in collaborative teams. I also stay updated with industry trends. Let's connect and innovate together!
 
 ## 🛠️ Tech Stack
 
